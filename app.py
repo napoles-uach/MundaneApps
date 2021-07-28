@@ -1,14 +1,24 @@
 import streamlit as st
 from streamlit_player import st_player
 import streamlit.components.v1 as components
+from streamlit_tags import st_tags, st_tags_sidebar
 st.set_page_config(layout="wide")
+list1=[]
+list2=[]
+maxtags =10 
+keywords = st_tags(
+    label='# Enter URLs to work:',
+    text='Press enter to add more',
+    maxtags=maxtags,
+    key="aljnf")
+
+
 col1, col2, col3 = st.beta_columns([6,1,2])
 with col1:
-  url=st.text_input('Enter working URL','https://docs.streamlit.io/en/stable/')
-  components.iframe(url,height=800,scrolling=True)
+  sel_url=st.selectbox('Select url', keywords)
+  components.iframe(sel_url,height=800,scrolling=True)
 
 
 with col3:
-  url_youtube=st.text_input('Enter youtube URL','https://www.youtube.com/watch?v=B2iAodr0fOo')
-  # Embed a youtube video
+  url_youtube=st.text_input('Enter youtube URL')
   st_player(url_youtube)
