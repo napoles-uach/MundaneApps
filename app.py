@@ -5,8 +5,8 @@ from streamlit_tags import st_tags, st_tags_sidebar
 st.set_page_config(layout="wide")
 list1=[]
 list2=[]
-maxtags =10 
-keywords = st_tags(
+maxtags =6 
+keywords = st_tags_sidebar(
     label='# Enter URLs to work:',
     text='Press enter to add more',
     maxtags=maxtags,
@@ -22,3 +22,4 @@ with col1:
 with col3:
   url_youtube=st.text_input('Enter youtube URL')
   st_player(url_youtube)
+
