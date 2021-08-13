@@ -3,7 +3,7 @@ import streamlit.components.v1 as components
 from streamlit_lottie import st_lottie
 import requests
 #from streamlit.hashing import _CodeHasher
-st.ballons()
+st.balloons()
 
 def load_lottieurl(url: str):
     r = requests.get(url)
