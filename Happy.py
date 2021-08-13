@@ -43,7 +43,6 @@ with c3:
   st_lottie(load_lottieurl(links["dash"]),key="6")
 
 with c4:
-  st.header("@DataChaz")
   st.button('@DataChaz')
   st_lottie(load_lottieurl(links["net"]),key="7")
   st_lottie(load_lottieurl(links["chem"]),key="8")
