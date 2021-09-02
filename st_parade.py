@@ -36,3 +36,4 @@ for line in file:
 
 st.write(urls)
 sel_url=st.selectbox('Select url', urls)
+components.iframe(sel_url,height=800,scrolling=True)
