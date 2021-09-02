@@ -3,7 +3,7 @@ from streamlit_player import st_player
 import streamlit.components.v1 as components
 from streamlit_tags import st_tags, st_tags_sidebar
 st.set_page_config(layout="wide")
-st.title('Update from github.dev')
+
 list1=[]
 list2=[]
 maxtags =6 
