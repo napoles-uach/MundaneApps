@@ -29,6 +29,9 @@ with col3:
 url = "https://raw.githubusercontent.com/napoles-uach/MundaneApps/main/links.txt"
 file = urllib.request.urlopen(url)
 
+urls=[]
 for line in file:
 	decoded_line = line.decode("utf-8")
-	st.write(decoded_line)
+	urls.append(decoded_line)
+
+st.write(urls)
