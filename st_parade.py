@@ -2,6 +2,7 @@ import streamlit as st
 from streamlit_player import st_player
 import streamlit.components.v1 as components
 from streamlit_tags import st_tags, st_tags_sidebar
+import urllib.request
 st.set_page_config(layout="wide")
 
 list1=[]
@@ -23,3 +24,11 @@ with col1:
 with col3:
   url_youtube=st.text_input('Enter youtube URL','https://www.youtube.com/watch?v=_daTfgc4u3k')
   st_player(url_youtube)
+
+
+url = "https://raw.githubusercontent.com/napoles-uach/MundaneApps/main/links.txt"
+file = urllib.request.urlopen(url)
+
+for line in file:
+	decoded_line = line.decode("utf-8")
+	st.write(decoded_line)
