@@ -14,7 +14,7 @@ keywords = st_tags_sidebar(
     key="aljnf")
 
 
-col1, col2, col3 = st.beta_columns([6,1,2])
+col1, col2, col3 = st.columns([6,1,2])
 with col1:
   sel_url=st.selectbox('Select url', keywords)
   components.iframe(sel_url,height=800,scrolling=True)
