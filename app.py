@@ -21,6 +21,6 @@ with col1:
 
 
 with col3:
-  url_youtube=st.text_input('Enter youtube URL')
+  url_youtube=st.text_input('Enter youtube URL','https://www.youtube.com/watch?v=_daTfgc4u3k')
   st_player(url_youtube)
 
