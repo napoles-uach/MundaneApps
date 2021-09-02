@@ -35,3 +35,4 @@ for line in file:
 	urls.append(decoded_line)
 
 st.write(urls)
+sel_url=st.selectbox('Select url', urls)
