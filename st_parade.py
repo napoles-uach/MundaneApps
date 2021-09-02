@@ -34,6 +34,6 @@ for line in file:
 	decoded_line = line.decode("utf-8")
 	urls.append(decoded_line)
 
-st.write(urls)
+#st.write(urls)
 sel_url=st.selectbox('Select url', urls)
 components.iframe(sel_url,height=800,scrolling=True)
