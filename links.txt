@@ -5,3 +5,4 @@ https://share.streamlit.io/wigging/biocomp/main/app.py
 https://share.streamlit.io/napoles-uach/st_smiles/main/smiles.py
 https://share.streamlit.io/dlopezyse/synthia/main
 https://share.streamlit.io/jkanner/streamlit-dataview/master/app.py/+/
+https://share.streamlit.io/whitphx/style-transfer-web-app/main/app.py
