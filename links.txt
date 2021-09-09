@@ -12,3 +12,4 @@ https://share.streamlit.io/shubhamsaboo/gpt3_sandbox/gpt_app.py
 https://share.streamlit.io/pavankunchala/lego_generator_app/main/lego_app.py
 https://share.streamlit.io/tvst/plost
 https://share.streamlit.io/georgeamccarthy/wikipedia-word-cloud/main/wikipedia-word-cloud.py
+https://share.streamlit.io/alphalaser/paratools/main/input.py
