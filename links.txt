@@ -1,7 +1,6 @@
 https://share.streamlit.io/dataprofessor/streamlit_navbar/main/app_navbar.py
 https://share.streamlit.io/andfanilo/streamlit-drawable-canvas-demo/master/app.py
 https://share.streamlit.io/whitphx/style-transfer-web-app/main/app.py
-https://share.streamlit.io/tvst/plost
 https://streamsuggest.herokuapp.com/
 https://share.streamlit.io/andfanilo/streamlit-midi-to-wav/main/app.py
 https://share.streamlit.io/napoles-uach/st_smiles/main/smiles.py
