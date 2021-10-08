@@ -1,4 +1,3 @@
-https://share.streamlit.io/andfanilo/s4a_cats_grid/main/app.py
 https://share.streamlit.io/dataprofessor/streamlit_navbar/main/app_navbar.py
 https://share.streamlit.io/andfanilo/streamlit-drawable-canvas-demo/master/app.py
 https://share.streamlit.io/whitphx/style-transfer-web-app/main/app.py
@@ -9,6 +8,7 @@ https://share.streamlit.io/pavankunchala/lego_generator_app/main/lego_app.py
 https://share.streamlit.io/georgeamccarthy/wikipedia-word-cloud/main/wikipedia-word-cloud.py
 https://share.streamlit.io/jkanner/streamlit-dataview/master/app.py/+/
 https://share.streamlit.io/alphalaser/paratools/main/input.py
+https://share.streamlit.io/andfanilo/s4a_cats_grid/main/app.py
 https://share.streamlit.io/rraires/analise-quant/main/main_app.py
 https://share.streamlit.io/sebastiandres/streamlit_ppt2rise/main
 https://share.streamlit.io/wigging/biocomp/main/app.py
