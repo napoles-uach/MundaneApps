@@ -4,6 +4,7 @@ import streamlit.components.v1 as components
 from streamlit_tags import st_tags, st_tags_sidebar
 import urllib.request
 st.set_page_config(layout="wide")
+st.title('Streamlit Parade')
 
 list1=[]
 list2=[]
