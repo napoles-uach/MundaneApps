@@ -12,17 +12,6 @@ maxtags =6
 
 
 
-#col1, col2, col3 = st.columns([6,1,2])
-#with col1:
-#  sel_url=st.selectbox('Select url', keywords)
-#  components.iframe(sel_url,height=800,scrolling=True)
-
-
-#with col3:
-#  url_youtube=st.text_input('Enter youtube URL','https://www.youtube.com/watch?v=_daTfgc4u3k')
-#  st_player(url_youtube)
-
-
 url = "https://raw.githubusercontent.com/napoles-uach/MundaneApps/main/links.txt"
 file = urllib.request.urlopen(url)
 
@@ -33,12 +22,3 @@ for line in file:
 
 sel_url=st.selectbox('Select url', urls)
 components.iframe(sel_url,height=800,scrolling=True)
-
-#col1, col2, col3 = st.columns([6,1,2])
-#with col1:
-#  sel_url=st.selectbox('Select url', urls)
-#  components.iframe(sel_url,height=800,scrolling=True)
-
-#with col3:
-#  url_youtube=st.text_input('Enter youtube URL','https://www.youtube.com/watch?v=_daTfgc4u3k')
-#  st_player(url_youtube)
