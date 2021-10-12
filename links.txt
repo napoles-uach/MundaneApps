@@ -1,4 +1,6 @@
 https://share.streamlit.io/dataprofessor/streamlit_navbar/main/app_navbar.py
+https://share.streamlit.io/pavankunchala/virtual_makeup_streamlit/main/app.py
+https://huggingface.co/spaces/Pavankunchala/Depth-Estimation-App
 https://share.streamlit.io/andfanilo/streamlit-drawable-canvas-demo/master/app.py
 https://share.streamlit.io/whitphx/style-transfer-web-app/main/app.py
 https://streamsuggest.herokuapp.com/
