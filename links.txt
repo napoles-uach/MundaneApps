@@ -19,3 +19,4 @@ https://share.streamlit.io/shubhamsaboo/gpt3_sandbox/gpt_app.py
 https://share.streamlit.io/avratanubiswas/publit/main/publit.py
 https://streamea-entity-analyzer.herokuapp.com/
 https://share.streamlit.io/charlywargnier/s4_wiki_topic_grapher/main/app.py
+https://share.streamlit.io/andfanilo/streamlit-echarts-demo/app.py
