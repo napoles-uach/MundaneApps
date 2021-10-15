@@ -4,6 +4,16 @@ import streamlit.components.v1 as components
 from streamlit_tags import st_tags, st_tags_sidebar
 import urllib.request
 st.set_page_config(layout="wide")
+
+hide_st_style = """
+            <style>
+            #MainMenu {visibility: hidden;}
+            footer {visibility: hidden;}
+            header {visibility: hidden;}
+            </style>
+            """
+st.markdown(hide_st_style, unsafe_allow_html=True)
+
 st.title('Streamlit Parade')
 
 list1=[]
