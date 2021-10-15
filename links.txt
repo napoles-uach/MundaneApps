@@ -1,3 +1,4 @@
+https://share.streamlit.io/daniellewisdl/streamlit-cheat-sheet/app.py
 https://share.streamlit.io/dataprofessor/streamlit_navbar/main/app_navbar.py
 https://share.streamlit.io/pavankunchala/virtual_makeup_streamlit/main/app.py
 https://share.streamlit.io/andfanilo/streamlit-drawable-canvas-demo/master/app.py
