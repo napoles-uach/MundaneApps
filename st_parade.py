@@ -50,7 +50,7 @@ hide_st_style = """
             """
 st.markdown(hide_st_style, unsafe_allow_html=True)
 
-st.title('Streamlit Parade')
+#st.title('Streamlit Parade')
 
 list1=[]
 list2=[]
@@ -66,5 +66,5 @@ for line in file:
 	decoded_line = line.decode("utf-8")
 	urls.append(decoded_line)
 
-sel_url=st.selectbox('Select url', urls)
+sel_url=st.selectbox('', urls)
 components.iframe(sel_url,height=800,scrolling=True)
