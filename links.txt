@@ -1,5 +1,6 @@
-https://share.streamlit.io/tvst/plost
 https://share.streamlit.io/daniellewisdl/streamlit-cheat-sheet/app.py
+https://share.streamlit.io/zakariachowdhury/clean-speech/main
+https://share.streamlit.io/tvst/plost
 https://share.streamlit.io/dataprofessor/streamlit_navbar/main/app_navbar.py
 https://share.streamlit.io/giswqs/streamlit-geospatial/app.py?page=Home
 https://share.streamlit.io/pavankunchala/virtual_makeup_streamlit/main/app.py
