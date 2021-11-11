@@ -1,4 +1,6 @@
 https://share.streamlit.io/daniellewisdl/streamlit-cheat-sheet/app.py
+https://share.streamlit.io/akshanshkmr/streamlit-demo/app.py?app=streamlit_apex_charts
+https://share.streamlit.io/akshanshkmr/streamlit-demo/app.py?app=link_button
 https://share.streamlit.io/zakariachowdhury/clean-speech/main
 https://share.streamlit.io/tvst/plost
 https://share.streamlit.io/dataprofessor/streamlit_navbar/main/app_navbar.py
