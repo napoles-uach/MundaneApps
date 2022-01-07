@@ -1,3 +1,4 @@
+https://share.streamlit.io/charlywargnier/speech-to-text-streamlit-app/main
 https://share.streamlit.io/alphalaser/paratools/main/input.py
 https://share.streamlit.io/andfanilo/streamlit-echarts-demo/app.py
 https://share.streamlit.io/andfanilo/streamlit-midi-to-wav/main/app.py
