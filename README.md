@@ -4,4 +4,5 @@
 Showcase of cool Streamlit apps from the community.
 
 See below the apps included
+
 https://raw.githubusercontent.com/napoles-uach/MundaneApps/main/links.txt
