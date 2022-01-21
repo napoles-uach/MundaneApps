@@ -1,5 +1,4 @@
-https://share.streamlit.io/nikosarcevic/cosmoracle/main
-https://share.streamlit.io/charlywargnier/speech-to-text-streamlit-app/main
+https://share.streamlit.io/arnaudmiribel/exts_application/exts_app.py
 https://share.streamlit.io/alphalaser/paratools/main/input.py
 https://share.streamlit.io/andfanilo/streamlit-echarts-demo/app.py
 https://share.streamlit.io/andfanilo/streamlit-midi-to-wav/main/app.py
@@ -7,6 +6,7 @@ https://share.streamlit.io/andfanilo/s4a_cats_grid/main/app.py
 https://share.streamlit.io/andfanilo/streamlit-drawable-canvas-demo/master/app.py
 https://share.streamlit.io/avratanubiswas/publit/main/publit.py
 https://share.streamlit.io/charlywargnier/s4_wiki_topic_grapher/main/app.py
+https://share.streamlit.io/charlywargnier/speech-to-text-streamlit-app/main
 https://streamsuggest.herokuapp.com/
 https://streamea-entity-analyzer.herokuapp.com/
 https://share.streamlit.io/daniellewisdl/streamlit-cheat-sheet/app.py
@@ -18,6 +18,7 @@ https://share.streamlit.io/jellycodes/college-placement-prediction-webapp/main/m
 https://share.streamlit.io/jkanner/streamlit-dataview/master/app.py/+/
 https://share.streamlit.io/napoles-uach/streamlit_network/main/app.py
 https://share.streamlit.io/napoles-uach/st_smiles/main/smiles.py
+https://share.streamlit.io/nikosarcevic/cosmoracle/main
 https://share.streamlit.io/shubhamsaboo/gpt3_sandbox/gpt_app.py
 https://share.streamlit.io/okld/streamlit-gallery/main?p=disqus
 https://share.streamlit.io/okld/streamlit-gallery/main?p=discourse
