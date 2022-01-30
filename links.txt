@@ -1,3 +1,4 @@
+https://kelly.finance/
 https://share.streamlit.io/arnaudmiribel/exts_application/exts_app.py
 https://share.streamlit.io/alphalaser/paratools/main/input.py
 https://share.streamlit.io/andfanilo/streamlit-echarts-demo/app.py
